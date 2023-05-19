@@ -43,7 +43,7 @@ A passionate software engineer with a knack for problem-solving and a love for c
 <!-- Your GitHub Stats -->
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReinoldoCaceres&show_icons=true&theme=dark)
 
 <!-- Your Favorite Quote -->
 ## Favorite Quote
