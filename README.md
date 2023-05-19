@@ -51,6 +51,6 @@ A passionate software engineer with a knack for problem-solving and a love for c
 "Write code as if the person who maintains it is a psychopath who knows where you live." - [Unknown]
 
 <!-- Your Favorite GIF -->
-## Favorite GIF
+## We can all relate
 
-![Your Favorite GIF](https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif)
+![My Favorite GIF](https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)
