@@ -4,7 +4,7 @@
 -->
 
 <!-- Your Name -->
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Rei 👋
 
 <!-- Your Bio -->
 A passionate software engineer with a knack for problem-solving and a love for coding. I'm dedicated to building innovative solutions and creating high-quality software applications.
