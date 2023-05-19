@@ -38,7 +38,9 @@ A passionate software engineer with a knack for problem-solving and a love for c
 ## Contact Me
 
 📧 Email: reinoldodcaceres@gmail.com
+
 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/reinoldo-caceres-2b791a217/)
+
 
 <!-- Your GitHub Stats -->
 ## GitHub Stats
