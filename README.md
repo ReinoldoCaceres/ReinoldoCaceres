@@ -32,9 +32,7 @@ A passionate software engineer with a knack for problem-solving and a love for c
 <!-- Your Projects -->
 ## Featured Projects
 
-- https://github.com/ReinoldoCaceres/sports-app: Brief description of Project 1.
-- [Project 2](https://github.com/your-project2): Brief description of Project 2.
-- [Project 3](https://github.com/your-project3): Brief description of Project 3.
+- https://github.com/ReinoldoCaceres/sports-app: Brief description coming soon.
 
 <!-- Your Contact Information -->
 ## Contact Me
