@@ -48,9 +48,9 @@ A passionate software engineer with a knack for problem-solving and a love for c
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReinoldoCaceres&show_icons=true&theme=dark)
 
 <!-- Your Favorite Quote -->
-## Favorite Quote
+## My work philosophy
 
-"Write code as if the person who maintains it is a psychopath who knows where you live." - [Unknown]
+"Programming is like telling a joke. If you have to explain it, it's bad." - [Martin Fowler]
 
 <!-- Your Favorite GIF -->
 ## We can all relate
