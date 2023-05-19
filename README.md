@@ -53,4 +53,4 @@ A passionate software engineer with a knack for problem-solving and a love for c
 <!-- Your Favorite GIF -->
 ## Favorite GIF
 
-![Your Favorite GIF](https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS)
+![Your Favorite GIF](https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif)
