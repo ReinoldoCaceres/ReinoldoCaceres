@@ -19,6 +19,11 @@ A passionate software engineer with a knack for problem-solving and a love for c
 - 📊 Databases: MySQL, PostgreSQL, MongoDB
 - 🧪 Testing: JUnit, Mockito, Cypress
 - 🛠️ Tools & Technologies: Git, Docker, RESTful APIs, Agile Methodologies
+- 🐳 Docker: Containerization, Docker Compose, Docker Swarm, Dockerfile, Docker Registry, Docker Networking, Docker Volumes, Docker Orchestration
+- 🐧 Linux: Command Line Interface (CLI), Shell Scripting, File Permissions, Package Management (e.g., apt, yum), System Administration, Linux Networking, Linux Security
+- ☸️ Kubernetes: Container Orchestration, Kubernetes Architecture, Pods, Deployments, Services, ConfigMaps, Secrets, Persistent Volumes, Helm, Kubernetes Networking, Cluster Scaling, Kubernetes Monitoring
+- 🔐 JWT (JSON Web Tokens): Token-based Authentication, JWT Claims, JWT Verification, Token Refreshing, Token Expiration, JWT Libraries and Frameworks
+- 🌐 Spring Security: Authentication and Authorization, User Management, Role-based Access Control (RBAC), Security Configurations, OAuth2, JWT Integration with Spring Security, CSRF Protection, Secure Session Management
 
 <!-- Your Interests -->
 ## Interests
